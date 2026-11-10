@@ -1,0 +1,8 @@
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\obj\Debug\Lab3_Refactoring.csproj.AssemblyReference.cache
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\obj\Debug\Lab3_Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\bin\Debug\Lab3_Refactoring.exe.config
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\bin\Debug\Lab3_Refactoring.exe
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\bin\Debug\Lab3_Refactoring.pdb
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\obj\Debug\Lab3_Refactoring.exe
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\obj\Debug\Lab3_Refactoring.pdb
+C:\Users\mmakh\OTP 2026\Lab3_Refactoring\obj\Debug\Lab3_Refactoring.exe.config
